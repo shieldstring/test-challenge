@@ -5,6 +5,6 @@ The based on the finding the characters of the television show Rick and Morty. Y
 React.js, tailwind.css, apollo client and The Rick and Morty API
 
 ## problems encountered
-#### Had some technical issue which was related to the contact person
-#### Choice of which tool to use as time was very limited to get the deal done.
+##### Had some technical issue which was related to the contact person
+##### Choice of project and which tool to use as time was very limited to get the deal done.
 
